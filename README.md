@@ -6,6 +6,6 @@
 
 ## tom再做事
 
-##python第二阶段
+## python第二阶段
 
 ![](bz.jpg)
